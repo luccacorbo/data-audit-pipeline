@@ -1,0 +1,5 @@
+numero_processo,ente_devedor,valor_face,total_pago,total_estornado,saldo_devedor,presenca_bases
+0012345-10.2019.8.26.0053,Município de São Paulo,45000.00,15000.00,0.00,30000.00,hub e tribunal
+0034567-32.2018.8.26.0405,Estado de São Paulo,12500.00,5000.00,5000.00,12500.00,hub e tribunal
+0056789-54.2017.4.03.6100,Estado de São Paulo,22000.00,0.00,0.00,22000.00,somente hub
+0067890-65.2016.8.26.0053,Município de São Paulo,7000.00,4000.00,0.00,3000.00,somente tribunal

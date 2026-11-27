@@ -1,0 +1,14 @@
+arquivo,registro,processo,campo,classificacao,motivo
+pagamentos.json,ev-002,0012345-10.2019.8.26.0053,,descartado,data inválida: '10/04/2025'
+pagamentos.json,ev-002,0012345-10.2019.8.26.0053,,descartado,data inválida: '10/04/2025'
+pagamentos.json,ev-004,0023456-21.2020.8.26.0053,,descartado,valor ausente ou inválido
+pagamentos.json,ev-009,0056789-54.2017.4.03.6100,,descartado,valor deve ser finito e maior que zero
+pagamentos.json,ev-010,,,descartado,formato de processo inválido: ''
+pagamentos.json,ev-001,0012345-10.2019.8.26.0053,evento_id,descartado,evento duplicado
+pagamentos.json,ev-003,0023456-21.2020.8.26.0053,processo,descartado,processo não persistido (ver inconsistencias_bases.csv)
+pagamentos.json,ev-005,0023456-21.2020.8.26.0053,processo,descartado,processo não persistido (ver inconsistencias_bases.csv)
+pagamentos.json,ev-006,0034567-32.2018.8.26.0405,evento_id,descartado,evento duplicado
+pagamentos.json,ev-007,0034567-32.2018.8.26.0405,evento_id,descartado,evento duplicado
+pagamentos.json,ev-001,0012345-10.2019.8.26.0053,evento_id,descartado,evento duplicado
+pagamentos.json,ev-008,0045678-43.2021.5.02.0011,processo,descartado,processo não persistido (ver inconsistencias_bases.csv)
+pagamentos.json,ev-011,0067890-65.2016.8.26.0053,evento_id,descartado,evento duplicado

@@ -1,0 +1,9 @@
+arquivo,registro,processo,campo,classificacao,motivo
+hub.csv x tribunal.csv,0023456-21.2020.8.26.0053,0023456-21.2020.8.26.0053,valor_face,duvidoso,"valor_face diverge (hub=31000.00, tribunal=30000.00); não persistido"
+hub.csv x tribunal.csv,0045678-43.2021.5.02.0011,0045678-43.2021.5.02.0011,ente,duvidoso,"ente diverge (hub=Município de Santos, tribunal=União); não persistido"
+hub.csv,0056789-54.2017.4.03.6100,0056789-54.2017.4.03.6100,processo,duvidoso,ausente no tribunal; persistido (existe em apresentacoes.json)
+tribunal.csv,0067890-65.2016.8.26.0053,0067890-65.2016.8.26.0053,processo,duvidoso,ausente no hub; persistido (existe em apresentacoes.json)
+banco de dados,0012345-10.2019.8.26.0053,0012345-10.2019.8.26.0053,numero_processo,descartado,processo já cadastrado
+banco de dados,0034567-32.2018.8.26.0405,0034567-32.2018.8.26.0405,numero_processo,descartado,processo já cadastrado
+banco de dados,0056789-54.2017.4.03.6100,0056789-54.2017.4.03.6100,numero_processo,descartado,processo já cadastrado
+banco de dados,0067890-65.2016.8.26.0053,0067890-65.2016.8.26.0053,numero_processo,descartado,processo já cadastrado
