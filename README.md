@@ -3,8 +3,9 @@
 Pipeline de auditoria, tratamento e reconciliação de dados de precatórios.
 O projeto processa informações provenientes de diferentes fontes, identifica inconsistências, aplica regras de validação e persiste somente os registros que atendem aos critérios definidos.
 
-Relatório de inconsistencias e soluções em [DIAGNOSTICO.md](DIAGNOSTICO.md)
-Relatórios gerados pelo codigo em [relatorios/](relatorios/readme.md)
+Relatório de inconsistencias e soluções em [DIAGNOSTICO.md](DIAGNOSTICO.md).
+
+Relatórios gerados pelo codigo em [relatorios/](relatorios/)
 
 ## Objetivos
 
